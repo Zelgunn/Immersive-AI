@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>da8df394-ca9d-4763-a389-c95f6d03c776</TargetProject>
+    <FriendlyName>CLDNN</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Zelgunn\AppData\Local\Temp\CLDNN_20170205.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
